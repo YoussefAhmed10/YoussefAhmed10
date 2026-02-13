@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">hey there 👋</h1>
-###
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-ahmed-26416b209) 
