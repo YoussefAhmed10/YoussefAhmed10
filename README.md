@@ -17,6 +17,11 @@ Currently improving my skills in Testing, CI/CD, and scalable mobile architectur
 
 ---
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-ahmed-26416b209)
+
+---
+
 ## 🚀 Highlights
 
 - 📱 Built & maintained 15+ production apps
@@ -44,12 +49,6 @@ Employee management system for attendance, leave requests, and HR operations.
 
 ### Delmar & Attalla
 Retail pharmacy mobile application serving multiple branches across Cairo.
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/youssef-ahmed-26416b209
 
 ---
 
